@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying to become a Developer.<br><br>I'm descovering new developing tools and new code languages .<br><br>Other things to know:<br><br>- I'm aiming to become an Informatic Engienieer.<br>- I'm interested in videogame Developing.<br>- I like drawing
+I'm currently studying to become a Developer.<br><br>I'm descovering new developing tools and new code languages .<br><br>Other things to know:<br><br>- I'm aiming to become an Informatic Engienieer.<br>- I'm interested in videogame developing.<br>- I like drawing
 
 
 # 💻 Tech Stack:
